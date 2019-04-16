@@ -1,1 +1,1 @@
-# share the list of company
+# share the list of companys
